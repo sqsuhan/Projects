@@ -1,4 +1,4 @@
 # Projects
 This is Tech Enthusiast
 <br>
-Author - Shaik Sharooq
+Author - Shaik Sharooq Suhan
