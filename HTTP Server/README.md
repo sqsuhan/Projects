@@ -15,19 +15,7 @@ This project is a simple HTTP server implemented in Java. It allows users to ser
 4. Run the `HttpServer.java` file to start the HTTP server.
 5. Access the served files by navigating to `http://localhost:{port}` in your web browser.
 
-## Example
-```java
-public class Main {
-    public static void main(String[] args) {
-        // Specify the port number and directory
-        int port = 8080;
-        String directory = "public";
 
-        // Create and start the HTTP server
-        HttpServer server = new HttpServer(port, directory);
-        server.start();
-    }
-}
 ## Dependencies
 - Java Development Kit (JDK) 8 or higher
 
@@ -45,4 +33,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or feedback, please contact [Your Name] at [sksharooq456@gmail.com].
+
+
+
+
+
+
+
 
