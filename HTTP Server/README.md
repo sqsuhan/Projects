@@ -32,7 +32,7 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please contact [Your Name] at [sksharooq456@gmail.com].
+For any inquiries or feedback, please contact [Shaik.Sharooq] at [sksharooq456@gmail.com].
 
 
 
